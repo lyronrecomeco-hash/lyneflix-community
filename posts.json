@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "authorName": "LyneFlix",
+        "content": "Bem-vindos à comunidade oficial da LyneFlix! Aproveitem para compartilhar o que estão assistindo.",
+        "likes": 5,
+        "comments": 0,
+        "timeAgo": "agora",
+        "isAdmin": true,
+        "commentsList": []
+    }
+]
