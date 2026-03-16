@@ -1,1 +1,24 @@
-
+[
+  {
+    "authorName": "LyneFlix",
+    "comments": 0,
+    "commentsList": [],
+    "content": "Teste comunidade",
+    "id": "1773694754907",
+    "isAdmin": true,
+    "isLikedByMe": false,
+    "likes": 1,
+    "timestamp": 1773694754908
+  },
+  {
+    "authorName": "LyneFlix",
+    "comments": 0,
+    "commentsList": [],
+    "content": "Bem-vindos à comunidade oficial da LyneFlix! Aproveitem para compartilhar o que estão assistindo.",
+    "id": "1",
+    "isAdmin": true,
+    "isLikedByMe": false,
+    "likes": 5,
+    "timestamp": 0
+  }
+]
